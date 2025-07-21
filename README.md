@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
 * 🎓 Recent Informatics graduate with a strong interest in data analytics
 * 🔍 Skilled in turning data into insights through analysis and visualization
@@ -49,6 +50,8 @@ Here are some ideas to get you started:
 
 * 📫 How to reach me:
 ![https://www.linkedin.com/in/ahmad-muhamad-salim-alhadar/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![putraalhadar@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+---
 
 <h2 align="left">Play games with me</h2>
 
