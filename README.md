@@ -1,19 +1,6 @@
-![Ahmad MSA](img/github-header-image.png)
-
-<!--
-**AhmadMSA13/AhmadMSA13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="img/github-header-image.png" alt="Header Ahmad MSA">
+</p>
 ---
 
 * 🎓 Recent Informatics graduate with a strong interest in data analytics
@@ -35,7 +22,7 @@ Here are some ideas to get you started:
 
   * **Databases**: 
   
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
   * **Productivity Tools**: 
   
@@ -44,18 +31,29 @@ Here are some ideas to get you started:
 * Other Tools & Technologies *(Non-core Data Analyst)*: 
 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 
 * 🚀 Open to **full-time job opportunities** and **internships** in **Data Analyst** or **Business Intelligence** roles
 
 * 🌱 Eager to learn, grow, and contribute in data-driven environments
 
-* 🧾 My Projects :
+* 🧾 My Personal Projects :
+  * Power BI:
+    👉 [Power BI Bank Industry Dashboard](https://github.com/AhmadMSA13/powerbi-bank-industry-dashboard.git)
+    👉 [Power BI Sales Transaction Dashboard](https://github.com/AhmadMSA13/powerbi-sales-transaction-dashboard.git)
+    👉 [Power BI E-Commerce Dashboard](https://github.com/AhmadMSA13/powerbi-e-commerce-dashboard.git)
+    👉 [Power BI Tech Company Fundings Dashboard](https://github.com/AhmadMSA13/tech-company-fundings-dashboard.git)
+  * Tableau:
+    👉 [Tableau Tech Company Fundings Dashboard](https://github.com/AhmadMSA13/tech-company-fundings-dashboard.git)
+    👉 [Tableau COVID-19 in Indonesia Dashboard](https://github.com/AhmadMSA13/tableau-covid-19-indonesia-dashboard.git)
+    👉 [Tableau Superstore Dashboard](https://github.com/AhmadMSA13/tableau-superstore-dashboard.git)
 
 * 📫 How to reach me: 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-muhamad-salim-alhadar/)
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadmsa13/)
 
 ---
 
