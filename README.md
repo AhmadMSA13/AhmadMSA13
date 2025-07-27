@@ -1,6 +1,7 @@
 <p align="center">
   <img src="img/github-header-image.png" alt="Header Ahmad MSA">
 </p>
+
 ---
 
 * 🎓 Recent Informatics graduate with a strong interest in data analytics
@@ -41,19 +42,22 @@
 * 🧾 My Personal Projects :
   * Power BI:
     👉 [Power BI Bank Industry Dashboard](https://github.com/AhmadMSA13/powerbi-bank-industry-dashboard.git)
+    
     👉 [Power BI Sales Transaction Dashboard](https://github.com/AhmadMSA13/powerbi-sales-transaction-dashboard.git)
+    
     👉 [Power BI E-Commerce Dashboard](https://github.com/AhmadMSA13/powerbi-e-commerce-dashboard.git)
+    
     👉 [Power BI Tech Company Fundings Dashboard](https://github.com/AhmadMSA13/tech-company-fundings-dashboard.git)
   * Tableau:
     👉 [Tableau Tech Company Fundings Dashboard](https://github.com/AhmadMSA13/tech-company-fundings-dashboard.git)
+    
     👉 [Tableau COVID-19 in Indonesia Dashboard](https://github.com/AhmadMSA13/tableau-covid-19-indonesia-dashboard.git)
+    
     👉 [Tableau Superstore Dashboard](https://github.com/AhmadMSA13/tableau-superstore-dashboard.git)
 
 * 📫 How to reach me: 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-muhamad-salim-alhadar/)
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadmsa13/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-muhamad-salim-alhadar/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadmsa13/)
 
 ---
 
