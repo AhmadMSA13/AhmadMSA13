@@ -41,6 +41,7 @@
 
 * 🧾 My Personal Projects :
   * Power BI:
+    
     👉 [Power BI Bank Industry Dashboard](https://github.com/AhmadMSA13/powerbi-bank-industry-dashboard.git)
     
     👉 [Power BI Sales Transaction Dashboard](https://github.com/AhmadMSA13/powerbi-sales-transaction-dashboard.git)
@@ -49,6 +50,7 @@
     
     👉 [Power BI Tech Company Fundings Dashboard](https://github.com/AhmadMSA13/tech-company-fundings-dashboard.git)
   * Tableau:
+    
     👉 [Tableau Tech Company Fundings Dashboard](https://github.com/AhmadMSA13/tech-company-fundings-dashboard.git)
     
     👉 [Tableau COVID-19 in Indonesia Dashboard](https://github.com/AhmadMSA13/tableau-covid-19-indonesia-dashboard.git)
