@@ -42,6 +42,8 @@
 * 🧾 My Personal Projects :
   * Power BI:
     
+    👉 [Power BI Financial Investment Insights Dashboard](https://github.com/AhmadMSA13/powerbi-financial-investment-insights-dashboard.git)
+    
     👉 [Power BI Bank Industry Dashboard](https://github.com/AhmadMSA13/powerbi-bank-industry-dashboard.git)
     
     👉 [Power BI Sales Transaction Dashboard](https://github.com/AhmadMSA13/powerbi-sales-transaction-dashboard.git)
